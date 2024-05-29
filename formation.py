@@ -1,3 +1,4 @@
+
 def Bonjour(login):
     utilisateurs = {
         "Houda@kazacube.com": "Houda",
@@ -18,3 +19,12 @@ def Bonjour(login):
 
 login_entre = input("Veuillez entrer votre login: ")
 Bonjour(login_entre)
+print("Premier developpement")
+print("Test anas")
+print("i'm not really bored, I'm more of frustrated")
+print("it'll get better")
+
+print("hanaa dev")
+
+for i in range(10):
+    print("thank you teacher Houda ")
